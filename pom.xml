@@ -10,6 +10,7 @@
     <modules>
         <module>myBatisGenerateDemo</module>
         <module>lombokDemo</module>
+        <module>myBatisPlusDemo</module>
     </modules>
     <packaging>pom</packaging>
 

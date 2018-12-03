@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lombokDemo/lombokDemo.iml" filepath="$PROJECT_DIR$/lombokDemo/lombokDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myBatisGenerateDemo/myBatisGenerateDemo.iml" filepath="$PROJECT_DIR$/myBatisGenerateDemo/myBatisGenerateDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/utils.iml" filepath="$PROJECT_DIR$/utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBatisPlusDemo/myBatisPlusDemo.iml" filepath="$PROJECT_DIR$/myBatisPlusDemo/myBatisPlusDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/utils.iml" filepath="$PROJECT_DIR$/.idea/utils.iml" />
     </modules>
   </component>
 </project>

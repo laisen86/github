@@ -9,15 +9,19 @@
         <module name="lombokDemo" />
         <module name="lombokTest" />
         <module name="myBatisGenerateDemo" />
+        <module name="myBatisGenerateDemo (1)" />
         <module name="myBatisGenerateTest" />
+        <module name="myBatisPlusDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="lombokDemo" target="1.7" />
-      <module name="lombokTest" target="1.5" />
+      <module name="lombokTest" target="1.7" />
       <module name="myBatisGenerateDemo" target="1.7" />
+      <module name="myBatisGenerateDemo (1)" target="1.7" />
       <module name="myBatisGenerateTest" target="1.5" />
       <module name="myBatisGeTest" target="1.7" />
+      <module name="myBatisPlusDemo" target="1.8" />
       <module name="myProject" target="1.7" />
       <module name="springTest" target="1.7" />
       <module name="utils" target="1.7" />
